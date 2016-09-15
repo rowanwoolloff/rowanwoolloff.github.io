@@ -111,7 +111,14 @@ footer {
   padding: 1rem 0 4rem;
   text-align: center;
 }
-
+main img {
+ 	display: block;
+	width: 12rem;
+	max-width: 50%;
+	margin: 0 auto 1rem;
+	height: auto;
+	border-radius: 50%;
+}
 footer img {
  	display: block;
 	width: 12rem;
